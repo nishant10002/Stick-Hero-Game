@@ -8,7 +8,7 @@ Stick Hero Game implemented using JavaFX
 
 Basic Stick Hero game Implemented using JavaFX library. All Graphical design is done using JavaFX only. (No use of SceneBuilder)
 
-Game demo link: 
+Game demo link: https://youtu.be/0SOKTP3YS0w
 
 Controls :
 1.)SpaceBar Will flip the character
