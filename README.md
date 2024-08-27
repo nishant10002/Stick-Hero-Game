@@ -6,7 +6,7 @@ Stick Hero Game implemented using JavaFX
 ![Screenshot (2973)](https://github.com/nishant10002/Stick-Hero-Game/assets/133675507/8a8a5def-9ae3-4cac-be7d-91caa8b3b22a)
 ![Screenshot (2974)](https://github.com/nishant10002/Stick-Hero-Game/assets/133675507/87a1d4a2-2597-4795-bb7c-e59dc6689cef)
 
-Basic Stick Hero game Implemented using JavaFX library. All Graphical design is done using JavaFX only. (No use of SceneBuilder)
+Basic Stick Hero game Implemented using JavaFX library. All Graphical design is done using JavaFX and SceneBuilder.
 
 Game demo link: https://youtu.be/0SOKTP3YS0w
 
