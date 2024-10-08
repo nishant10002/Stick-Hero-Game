@@ -10,8 +10,7 @@ Stick Hero Game implemented using JavaFX
 
 Basic Stick Hero game Implemented using JavaFX library. All Graphical design is done using JavaFX and SceneBuilder.
 
-Controls :
-- SpaceBar Will flip the character
+Controls :- SpaceBar Will flip the character
 - S key is used to save the current progress
 - R key is used to restore the last save point
 - Press MouseButton will be used to draw Bridge
