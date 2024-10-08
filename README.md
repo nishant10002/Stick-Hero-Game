@@ -11,12 +11,14 @@ Stick Hero Game implemented using JavaFX
 Basic Stick Hero game Implemented using JavaFX library. All Graphical design is done using JavaFX and SceneBuilder.
 
 Controls :
-1.)SpaceBar Will flip the character
-2.)S key is used to save the current progress
-3.)R key is used to restore the last save point
-4.)Press MouseButton will be used to draw Bridge
+
+1.) SpaceBar Will flip the character
+2.) S key is used to save the current progress
+3.) R key is used to restore the last save point
+4.) Press MouseButton will be used to draw Bridge
 
 Interesting Game features :
+
 1.) Saving and restoring progress using serialization and deserialization
 2.) Revive player if number of cherries >=3 (then deduct 3 cherries)
 3.) Background Music
