@@ -1,7 +1,7 @@
 # Stick-Hero-Game 
 All contents of game including pom.xml, scr, target, images, music, etc. are stored in game_2
 
-### Game demo link: https://youtu.be/0SOKTP3YS0w
+### Game demo link: *https://youtu.be/0SOKTP3YS0w*
 
 Stick Hero Game implemented using JavaFX
 
